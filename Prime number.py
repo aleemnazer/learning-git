@@ -17,3 +17,5 @@ def checkPrime(X):
 
 X = int(input("Enter a positive Number: "))
 checkPrime(X)
+print (x)
+print(x)
